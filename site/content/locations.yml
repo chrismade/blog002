@@ -1,0 +1,7 @@
+title: Locations
+intro: You can find us around the globe
+locations:
+  - address: 5th Ave
+    name: New York
+  - address: Kuhdamm 23
+    name: Berlin
