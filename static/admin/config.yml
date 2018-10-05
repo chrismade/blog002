@@ -5,6 +5,10 @@ backend:
   base_url: https://rqawxtha1j.execute-api.eu-west-1.amazonaws.com
   auth_endpoint: /prod/auth
 site_id: blog.acmattheis.de
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 0c806145926097c31e21
 media_folder: "static/images" 
 public_folder: "/images" 
 collections:
