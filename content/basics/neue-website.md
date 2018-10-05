@@ -6,4 +6,4 @@ thumbnail: /images/cfv4b.jpg
 categories:
   - news
 ---
-ich habe in der netlify UI einfach "new website" ausgewählt - das kann ja eigentlich nicht stimmen, mal schauen was passiert
+ich habe in der netlify UI einfach "new website" ausgewählt - das kann ja eigentlich nicht stimmen, mal schauen was passiert - neuer Text geht
