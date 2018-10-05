@@ -8,7 +8,9 @@ site_id: blog.acmattheis.de
 media_library:
  name: uploadcare
  config:
-   publicKey: demopublickey # replace with your publickey, or use this just to test
+   publicKey: 0c806145926097c31e21 # replace with your publickey, or use this just to test
+media_folder: "static/images"
+public_folder: "/images"
 collections:
   - name: "basics" # Used in routes, e.g., /admin/collections/blog
     label: "Website" # Used in the UI
