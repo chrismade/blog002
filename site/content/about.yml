@@ -1,0 +1,9 @@
+title: About Us
+intro: We started as a small team
+team:
+  - name: Dagobert Duck
+    position: CEO
+  - name: Donald Duck
+    position: CTO
+  - name: Gustav Gans
+    position: CFO
