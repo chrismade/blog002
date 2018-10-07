@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.acmattheis.de/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Testing Hugo and netlify-CMS Site"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
