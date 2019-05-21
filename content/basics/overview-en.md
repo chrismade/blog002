@@ -6,4 +6,4 @@ thumbnail: 'https://ucarecdn.com/adf1b7e6-3804-4ffa-970c-e12b055d7dff/'
 categories:
   - news
 ---
-Text in english
+Text in english - et en francais - und auf deutsch
