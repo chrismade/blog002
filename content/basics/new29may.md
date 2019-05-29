@@ -6,4 +6,4 @@ thumbnail: /assets/uploads/no_hay_nada_imposible3.jpg
 categories:
   - news
 ---
-Berlin Rome
+Berlin Rome London
